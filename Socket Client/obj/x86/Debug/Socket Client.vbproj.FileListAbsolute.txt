@@ -1,0 +1,9 @@
+C:\Users\Abdul\Desktop\Activity\Socket-Client-and-Server\Socket Client\bin\Debug\Socket Client.exe
+C:\Users\Abdul\Desktop\Activity\Socket-Client-and-Server\Socket Client\bin\Debug\Socket Client.pdb
+C:\Users\Abdul\Desktop\Activity\Socket-Client-and-Server\Socket Client\bin\Debug\Socket Client.xml
+C:\Users\Abdul\Desktop\Activity\Socket-Client-and-Server\Socket Client\obj\x86\Debug\Socket_Client.Form1.resources
+C:\Users\Abdul\Desktop\Activity\Socket-Client-and-Server\Socket Client\obj\x86\Debug\Socket_Client.Resources.resources
+C:\Users\Abdul\Desktop\Activity\Socket-Client-and-Server\Socket Client\obj\x86\Debug\Socket Client.vbproj.GenerateResource.Cache
+C:\Users\Abdul\Desktop\Activity\Socket-Client-and-Server\Socket Client\obj\x86\Debug\Socket Client.exe
+C:\Users\Abdul\Desktop\Activity\Socket-Client-and-Server\Socket Client\obj\x86\Debug\Socket Client.xml
+C:\Users\Abdul\Desktop\Activity\Socket-Client-and-Server\Socket Client\obj\x86\Debug\Socket Client.pdb

@@ -11,9 +11,12 @@ Public Class Form1
     Private isConnected As Boolean = False
 
     Private Const ROLE As String = "Client"
+    Private ConnectionPanelShow As Boolean = False
 
     '==================== FORM LOAD ====================
     Private Sub Form1_Load(ByVal sender As Object, ByVal e As EventArgs) Handles MyBase.Load
+        Panel1.Visible = ConnectionPanelShow
+        Panel1.Location = New Point(12, 95)
         Me.Text = "Socket Client"
     End Sub
 
@@ -111,4 +114,8 @@ Public Class Form1
         MyBase.OnFormClosing(e)
     End Sub
 
+    Private Sub PictureBox1_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles PictureBox1.Click
+        ConnectionPanelShow = Not ConnectionPanelShow
+        Panel1.Visible = ConnectionPanelShow
+    End Sub
 End Class

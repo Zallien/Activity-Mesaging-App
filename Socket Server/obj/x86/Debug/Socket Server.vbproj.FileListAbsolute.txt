@@ -7,3 +7,12 @@ C:\Users\Varri\documents\visual studio 2010\Projects\Socket Server\obj\x86\Debug
 C:\Users\Varri\documents\visual studio 2010\Projects\Socket Server\obj\x86\Debug\Socket Server.exe
 C:\Users\Varri\documents\visual studio 2010\Projects\Socket Server\obj\x86\Debug\Socket Server.xml
 C:\Users\Varri\documents\visual studio 2010\Projects\Socket Server\obj\x86\Debug\Socket Server.pdb
+C:\Users\Abdul\Desktop\Activity\Socket-Client-and-Server\Socket Server\obj\x86\Debug\Socket Server.exe
+C:\Users\Abdul\Desktop\Activity\Socket-Client-and-Server\Socket Server\obj\x86\Debug\Socket Server.xml
+C:\Users\Abdul\Desktop\Activity\Socket-Client-and-Server\Socket Server\obj\x86\Debug\Socket Server.pdb
+C:\Users\Abdul\Desktop\Activity\Socket-Client-and-Server\Socket Server\bin\Debug\Socket Server.exe
+C:\Users\Abdul\Desktop\Activity\Socket-Client-and-Server\Socket Server\bin\Debug\Socket Server.pdb
+C:\Users\Abdul\Desktop\Activity\Socket-Client-and-Server\Socket Server\bin\Debug\Socket Server.xml
+C:\Users\Abdul\Desktop\Activity\Socket-Client-and-Server\Socket Server\obj\x86\Debug\Socket_Server.Form1.resources
+C:\Users\Abdul\Desktop\Activity\Socket-Client-and-Server\Socket Server\obj\x86\Debug\Socket_Server.Resources.resources
+C:\Users\Abdul\Desktop\Activity\Socket-Client-and-Server\Socket Server\obj\x86\Debug\Socket Server.vbproj.GenerateResource.Cache

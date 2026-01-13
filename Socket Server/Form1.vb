@@ -12,10 +12,14 @@ Public Class Form1
     Private writer As StreamWriter
     Private isConnected As Boolean = False
 
+    Private ConnectionPanelShow As Boolean = False
+
     Private Const ROLE As String = "Server"
 
     '==================== FORM LOAD ====================
     Private Sub Form1_Load(ByVal sender As Object, ByVal e As EventArgs) Handles MyBase.Load
+        Panel1.Visible = ConnectionPanelShow
+        Panel1.Location = New Point(12, 95)
         Me.Text = "Socket Server"
     End Sub
 
@@ -121,5 +125,14 @@ Public Class Form1
             txtChatHistory.AppendText(message & Environment.NewLine)
             txtMessage.Clear()
         End If
+    End Sub
+
+    Private Sub Label7_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Label7.Click
+
+    End Sub
+
+    Private Sub PictureBox1_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles PictureBox1.Click
+        ConnectionPanelShow = Not ConnectionPanelShow
+        Panel1.Visible = ConnectionPanelShow
     End Sub
 End Class
